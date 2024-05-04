@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 120px;
+    font-style: italic;
+    font-size: 40px;
+}
+
+#color-box {
+    width: 300px;
+    height: 300px;
+    background-color: #ccc; /* Default background color */
+    margin: 20px auto;
+    border: 5px solid black;
+}
+
+#change-color-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
